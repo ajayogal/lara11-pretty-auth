@@ -24,3 +24,11 @@ Next, you'll want to run the new migrations:
 ```
 php artisan migrate
 ```
+
+## Run application
+
+```
+valet link
+```
+
+Open link http://lara11-pretty-auth.test/auth/setup
